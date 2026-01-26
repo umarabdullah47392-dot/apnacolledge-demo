@@ -1,4 +1,4 @@
 # apnacolledge-demo
-Website for AMURoboclub. Made for teaching members about git and github (educational purposes only)
+student umar
 <br>
 author-umAR abdullah
